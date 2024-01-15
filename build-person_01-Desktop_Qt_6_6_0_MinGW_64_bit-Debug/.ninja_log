@@ -1,0 +1,10 @@
+# ninja log v5
+1	371	7270366028405900	person_01_autogen/timestamp	af2d9f7c5e71370e
+1	371	7270366028405900	person_01_autogen/mocs_compilation.cpp	af2d9f7c5e71370e
+1	371	7270366028405900	D:/GitWorkRepositroy/Qt_MyProject/build-person_01-Desktop_Qt_6_6_0_MinGW_64_bit-Debug/person_01_autogen/timestamp	af2d9f7c5e71370e
+1	371	7270366028405900	D:/GitWorkRepositroy/Qt_MyProject/build-person_01-Desktop_Qt_6_6_0_MinGW_64_bit-Debug/person_01_autogen/mocs_compilation.cpp	af2d9f7c5e71370e
+382	1903	7270366044624341	CMakeFiles/person_01.dir/tperson.cpp.obj	64e64510a0a0e91f
+378	2233	7270366047919114	CMakeFiles/person_01.dir/main.cpp.obj	789376cab46e1883
+372	2287	7270366048464668	CMakeFiles/person_01.dir/person_01_autogen/mocs_compilation.cpp.obj	a44be47eac2c60db
+375	2713	7270366052720008	CMakeFiles/person_01.dir/widget.cpp.obj	b2258116d843b0a9
+2713	2892	7270366054467362	person_01.exe	9211fa74974dc6e5
