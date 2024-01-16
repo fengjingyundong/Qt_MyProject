@@ -140,7 +140,7 @@ void Widget::on_btnGirlDec_clicked()
 void Widget::on_btnClassInfo_clicked()
 {
     QObject *obj = girl;
-    const QMetaObject *meta = obj->metaObject();
+    const QMetaObject *meta = obj->metaObject();    /* 返回静态元对象指针 */
 
     ui->plainTextEdit->clear();
     ui->plainTextEdit->appendPlainText(QString("类名称: %1\r\n").arg(meta->className()));
