@@ -1,0 +1,26 @@
+[
+{
+  "directory": "D:/work/GitWorkRepository/Qt_MyProject/person_01/build",
+  "command": "C:\\Qt\\Tools\\mingw810_64\\bin\\g++.exe -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB @CMakeFiles/person_01.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\person_01.dir\\person_01_autogen\\mocs_compilation.cpp.obj -c D:\\work\\GitWorkRepository\\Qt_MyProject\\person_01\\build\\person_01_autogen\\mocs_compilation.cpp",
+  "file": "D:/work/GitWorkRepository/Qt_MyProject/person_01/build/person_01_autogen/mocs_compilation.cpp",
+  "output": "CMakeFiles/person_01.dir/person_01_autogen/mocs_compilation.cpp.obj"
+},
+{
+  "directory": "D:/work/GitWorkRepository/Qt_MyProject/person_01/build",
+  "command": "C:\\Qt\\Tools\\mingw810_64\\bin\\g++.exe -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB @CMakeFiles/person_01.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\person_01.dir\\main.cpp.obj -c D:\\work\\GitWorkRepository\\Qt_MyProject\\person_01\\main.cpp",
+  "file": "D:/work/GitWorkRepository/Qt_MyProject/person_01/main.cpp",
+  "output": "CMakeFiles/person_01.dir/main.cpp.obj"
+},
+{
+  "directory": "D:/work/GitWorkRepository/Qt_MyProject/person_01/build",
+  "command": "C:\\Qt\\Tools\\mingw810_64\\bin\\g++.exe -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB @CMakeFiles/person_01.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\person_01.dir\\widget.cpp.obj -c D:\\work\\GitWorkRepository\\Qt_MyProject\\person_01\\widget.cpp",
+  "file": "D:/work/GitWorkRepository/Qt_MyProject/person_01/widget.cpp",
+  "output": "CMakeFiles/person_01.dir/widget.cpp.obj"
+},
+{
+  "directory": "D:/work/GitWorkRepository/Qt_MyProject/person_01/build",
+  "command": "C:\\Qt\\Tools\\mingw810_64\\bin\\g++.exe -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB @CMakeFiles/person_01.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\person_01.dir\\tperson.cpp.obj -c D:\\work\\GitWorkRepository\\Qt_MyProject\\person_01\\tperson.cpp",
+  "file": "D:/work/GitWorkRepository/Qt_MyProject/person_01/tperson.cpp",
+  "output": "CMakeFiles/person_01.dir/tperson.cpp.obj"
+}
+]
